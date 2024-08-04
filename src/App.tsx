@@ -7,7 +7,7 @@ function App() {
   return (
     <>
       <div>
-        "press escape to open menu"
+        "press escape to open menu" 
       </div>
     </>
   )
